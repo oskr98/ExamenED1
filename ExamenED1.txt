@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/LDE.cpp.o ./Debug/HashTable.cpp.o ./Debug/NodoL.cpp.o
